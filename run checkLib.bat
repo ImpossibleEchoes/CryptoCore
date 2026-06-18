@@ -1,0 +1,2 @@
+py checkLib.py
+pause
